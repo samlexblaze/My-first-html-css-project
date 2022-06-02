@@ -1,0 +1,224 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+ul li {
+  text-decoration: none;
+  text-align: center;
+  padding-right: 10px;
+  list-style: none;
+  padding: 8px;
+}
+.p1 {
+  width: 450px;
+}
+.divv {
+  width: 700px;
+}
+.brain {
+  font-family: "Aclonica", sans-serif;
+  font-family: "Anton", sans-serif;
+  font-family: "Permanent Marker", cursive;
+  font-family: "Roboto", sans-serif;
+}
+.back {
+  height: 85vh;
+  background-image: url(./BOYS\ IMAGE.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}
+.back1 {
+  text-align: center;
+  color: white;
+  padding-top: 15%;
+}
+.but {
+  background-color: rgb(96, 96, 235);
+  color: white;
+  border-radius: 20px;
+  width: 12vw;
+  height: 5vh;
+  margin-left: 45%;
+  margin-top: 20px;
+  border: none;
+}
+.one {
+  display: flex;
+  justify-content: space-evenly;
+}
+.img2 {
+  width: 60vw;
+  height: 100vh;
+  margin-top: 2%;
+  margin-left: 1%;
+}
+.div1 {
+  margin-top: 18%;
+  margin-right: 2%;
+}
+.but2 {
+  background-color: rgba(28, 28, 240, 0.781);
+  color: white;
+  height: 8vh;
+  width: 9vw;
+  border: none;
+  border-radius: 10%;
+}
+.ddd {
+  display: flex;
+  width: 15vw;
+  justify-content: space-around;
+  margin-top: 2%;
+}
+.dd1 {
+  border: solid rgb(6, 106, 173);
+  width: 12vw;
+  border-radius: 50px;
+}
+.dd2 {
+  border: solid rgb(6, 106, 173);
+  width: 1vw;
+  border-radius: 50px;
+}
+.dd3 {
+  border: solid rgb(6, 106, 173);
+  width: 0.001px;
+  border-radius: 50px;
+}
+.www {
+  border: solid black;
+  border-style: double;
+  width: 20vw;
+  height: 7vh;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 5%;
+}
+ol {
+  margin-left: 6%;
+  list-style: georgian;
+}
+.blue {
+  border: none;
+  background-color: rgb(36, 36, 199);
+  color: white;
+  width: 5vw;
+  height: 5vh;
+  border-radius: 7%;
+}
+.explore {
+  margin-left: 4%;
+  border-bottom: 20%;
+  border-color: black;
+}
+.bigdiv {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1%;
+  margin-left: 4%;
+  margin-right: 2%;
+  align-items: center;
+}
+.fex {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+}
+.edit {
+  width: 40vw;
+  height: 70vh;
+  margin-bottom: 10%;
+  border-radius: 70%;
+}
+.clean {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4%;
+  margin-left: 4%;
+  margin-right: 2%;
+}
+.do {
+  margin-top: 6%;
+}
+.web {
+  width: 50vw;
+  height: 80vh;
+  margin-bottom: 10%;
+}
+.newul li {
+  list-style: circle;
+}
+.bbb {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+.b1 {
+  width: 20vw;
+  height: 35vh;
+  margin-left: 25%;
+  margin-bottom: 4%;
+  border-radius: 2%;
+}
+.b2 {
+  width: 15vw;
+  height: 30vh;
+  margin-left: 48%;
+  margin-top: 6%;
+  border-radius: 2%;
+}
+.b3 {
+  width: 30vw;
+  height: 50vh;
+  margin-top: 15%;
+  border-radius: 2%;
+}
+.siz {
+  width: 500px;
+  margin-top: 12%;
+}
+.dv {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-top: 10%;
+  align-items: center;
+}
+.sed {
+  width: 35vw;
+}
+.kkk {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+.bug {
+  width: 28vw;
+  height: 50vh;
+  margin-top: 10%;
+  border-radius: 2%;
+}
+.sse {
+  text-align: center;
+  height: 20vh;
+  margin-top: 4%;
+}
